@@ -2,7 +2,7 @@
 Aplicação do tipo Console usando a versão .NET 6.0, linguagem de programação C#, ORM EntityFramework aplicando os conceitos de orientação a objetos, herança, mapeamento de dados relacionais.
 
 <img src="https://img.shields.io/static/v1?label=dotnet&message=framework&color=blue&style=for-the-badge&logo=DOTNET"/>
-<img src="https://img.shields.io/static/v1?label=dotnet&message=framework&color=blue&style=for-the-badge&logo=ENTITY"/>
+<img src="https://img.shields.io/static/v1?label=entity&message=framework&color=blue&style=for-the-badge&logo=ENTITY"/>
 
 ### Status do Projeto: ✔️ (concluido)
 
